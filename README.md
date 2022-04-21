@@ -8,7 +8,7 @@
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacRay321&show_icons=true&theme=cobalt)
 
 
 
